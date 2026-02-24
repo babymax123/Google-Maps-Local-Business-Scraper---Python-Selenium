@@ -1,4 +1,4 @@
-🗺️ Google Maps Business Scraper
+#🗺️ Google Maps Business Scraper
 
 Google Maps Business Scraper is a Python automation tool built with Selenium that extracts local business data directly from Google Maps search results.
 
@@ -42,16 +42,23 @@ ChromeDriver
 
 📦 Installation
 1️⃣ Clone Repository
+```
 git clone https://github.com/yourusername/google-maps-scraper.git
+```
+```
 cd google-maps-scraper
+```
 2️⃣ Install Dependencies
+```
 pip install selenium pandas webdriver-manager openpyxl
+```
 
 Make sure Google Chrome is installed on your system.
 
 ▶️ How to Run
+```
 python main.py
-
+```
 You will be prompted to enter:
 
 Business keyword (example: toko)
@@ -87,9 +94,9 @@ This project is intended for educational and research purposes only.
 Please ensure compliance with Google Maps Terms of Service before using this tool.
 
 📄 License
-```
+
 This project is licensed under the MIT License.
-```
+
 👨‍💻 Author
 
 Your Name
