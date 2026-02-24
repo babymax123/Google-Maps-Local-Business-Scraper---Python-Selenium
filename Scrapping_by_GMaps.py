@@ -1,3 +1,10 @@
+
+Google Maps Business Scraper
+Author: Muhamad Aan A.
+GitHub: https://github.com/babymax123
+License: MIT License
+Year: 2026
+
 import time
 import pandas as pd
 from selenium import webdriver
@@ -92,5 +99,6 @@ if __name__ == "__main__":
 
     df.to_csv("hasil_scraping_maps.csv", index=False, encoding="utf-8-sig")
     df.to_excel("hasil_scraping_maps.xlsx", index=False)
+
 
     print("\n Data berhasil disimpan!")
