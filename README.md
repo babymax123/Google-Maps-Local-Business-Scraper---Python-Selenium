@@ -87,10 +87,10 @@ This project is intended for educational and research purposes only.
 Please ensure compliance with Google Maps Terms of Service before using this tool.
 
 📄 License
-
+```
 This project is licensed under the MIT License.
-
+```
 👨‍💻 Author
 
 Your Name
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/babaymax123
