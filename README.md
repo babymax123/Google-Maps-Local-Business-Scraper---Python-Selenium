@@ -41,9 +41,10 @@ WebDriver Manager
 ChromeDriver
 
 📦 Installation
+
 1️⃣ Clone Repository
 ```
-git clone https://github.com/yourusername/google-maps-scraper.git
+git clone https://github.com/babymax123/google-maps-scraper.git
 ```
 ```
 cd google-maps-scraper
@@ -68,12 +69,13 @@ Village name
 District name
 
 Example:
-
+```
 Masukkan jenis usaha: toko
 Masukkan nama desa: Sukamaju
 Masukkan nama kecamatan: Cibinong
+```
 📁 Output
-
+```
 The script generates:
 
 hasil_scraping_maps.csv
@@ -87,7 +89,7 @@ Business Name
 Rating
 
 Search Location
-
+```
 ⚠️ Disclaimer
 
 This project is intended for educational and research purposes only.
