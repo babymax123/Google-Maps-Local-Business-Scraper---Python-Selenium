@@ -1,4 +1,4 @@
-#🗺️ Google Maps Business Scraper
+#🗺️ # Google Maps Business Scraper
 
 Google Maps Business Scraper is a Python automation tool built with Selenium that extracts local business data directly from Google Maps search results.
 
